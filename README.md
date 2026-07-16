@@ -4,7 +4,7 @@ A modern, premium, fully responsive developer portfolio built for Dhamini B, a F
 
 Designed with inspiration from Apple, Awwwards, Vercel, Linear, and Framer — dark-mode-first, glassmorphism UI, aurora gradients, and polished micro-interactions crafted to impress recruiters and hiring managers.
 
-**Live Preview:** https://dhamini-cosmic-portfolio-pro.lovable.app
+**Live Preview:** https://dhamini-portfolio-three.vercel.app/
 
 ---
 
